@@ -2,17 +2,20 @@
 
 ## Background
 
-- Short paragraph on analysis under FBD.
-- Why is this different from node calibration?
-- Benefits of FBD analysis
+Information from the fossil record will be integrated with other types of data for divergence time estimation using the fossilized birth-death family of models.
+With an FBD model, fossil sampling is modeled jointly with speciation and extinction in a process-based framework that includes extinct lineages.
+This approach differs from more conventional node-calibration methods in that fossil species lineages are explicitly represented on the tree.
+This more explicit and principled accounting of the process generating fossil data in extinct clades leads to more reliable and repeatable inferences about the entire diversification process, ultimately resulting in better divergence time estimates.
 
 ## The Model
 
-- The stratigraphic Range model
+Most recently, an extension of the FBD model has been developed that accounts for different modes of speciation, and allows for the direct analysis of fossil species stratigraphic range data [Stadler et al. 2017](https://www.sciencedirect.com/science/article/pii/S002251931830119X).
+This model makes it easier to adapt an FBD analysis to the type of sampling data that is most commonly recorded by paleobiologists.
+Only the ages of first and last fossil occurrence of each species are needed to apply this model.
 
 ## The Data
 
-Ideal: 
+Ideally, data would be represented by stratigraphic ranges, the boundaries of which indicate the ages of the first and last occurrence of a species.
 
 | Fossil Species Name | Min Age | Max Age | First Appearance  | Last Appearance | Citation | How Dated | Notes |
 |-----------|----------------|---|---|---|---|---|---|

@@ -9,7 +9,7 @@ This more explicit and principled accounting of the process generating fossil da
 
 ## The Model
 
-Most recently, an extension of the FBD model has been developed that accounts for different modes of speciation, and allows for the direct analysis of fossil species stratigraphic range data [Stadler et al. 2017](https://www.sciencedirect.com/science/article/pii/S002251931830119X).
+Most recently, an extension of the FBD model has been developed that accounts for different modes of speciation, and allows for the direct analysis of fossil species stratigraphic range data ([Stadler et al. 2017](https://www.sciencedirect.com/science/article/pii/S002251931830119X)).
 This model makes it easier to adapt an FBD analysis to the type of sampling data that is most commonly recorded by paleobiologists.
 Only the ages of first and last fossil occurrence of each species are needed to apply this model.
 
